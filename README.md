@@ -4,6 +4,8 @@ Durante um projeto de graduação, entre maio de 2024 e setembro de 2024, foi fe
 
 ![Imagem do WhatsApp de 2024-09-03 à(s) 11 25 40_e5269a9e](https://github.com/user-attachments/assets/80648465-ff03-41ce-862c-ecb4ca899efd)
 
+Link de Vídeo para visualização de funcionamnto:https://youtu.be/r8OiV2AWL2Y
+
 Foi utilizado um microcontrolador STM32F103C8T6(Bluepill) para controlar todo o sistema.
 
 ![Imagem do WhatsApp de 2024-09-10 à(s) 11 24 06_e1e05124](https://github.com/user-attachments/assets/7d7d0019-137d-4ef3-a254-153abed4f08a)
